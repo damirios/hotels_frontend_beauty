@@ -1,1 +1,2 @@
-# hotels_frontend_beauty
+# Beauty
+Адаптивная вёрстка макета. Домашнее задание для hotels.ru
